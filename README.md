@@ -7,8 +7,8 @@ This project is a Hash Generator developed in Python, utilizing the hashlib libr
 - Support for Multiple Algorithms
 
 ## Prerequisites
--Python 3.x: The program is written in Python and requires Python 3.x to run.
--Hashlib Library: This is a standard Python library, so no additional installation is required.
+- Python 3.x: The program is written in Python and requires Python 3.x to run.
+- Hashlib Library: This is a standard Python library, so no additional installation is required.
 
 ## Getting Started
 
