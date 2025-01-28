@@ -11,6 +11,7 @@ This project is a Hash Generator developed in Python, utilizing the hashlib libr
 Before running the program, ensure you have the following installed:
 
 -Python 3.x: The program is written in Python and requires Python 3.x to run.
+
 -Hashlib Library: This is a standard Python library, so no additional installation is required.
 
 ## Getting Started
