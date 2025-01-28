@@ -5,7 +5,6 @@ This project is a Hash Generator developed in Python, utilizing the hashlib libr
 - Hash Generation
 - Hash Comparison
 - Support for Multiple Algorithms
-- 
 
 ## Prerequisites
 
